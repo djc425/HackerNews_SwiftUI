@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6EFFFF46270F6D4500FEEAE3"
-               BuildableName = "H4X0R_News_DC.app"
+               BuildableName = "HackerNews_SwiftUI.app"
                BlueprintName = "HackerNews_SwiftUI"
                ReferencedContainer = "container:HackerNews_SwiftUI.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6EFFFF46270F6D4500FEEAE3"
-            BuildableName = "H4X0R_News_DC.app"
+            BuildableName = "HackerNews_SwiftUI.app"
             BlueprintName = "HackerNews_SwiftUI"
             ReferencedContainer = "container:HackerNews_SwiftUI.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6EFFFF46270F6D4500FEEAE3"
-            BuildableName = "H4X0R_News_DC.app"
+            BuildableName = "HackerNews_SwiftUI.app"
             BlueprintName = "HackerNews_SwiftUI"
             ReferencedContainer = "container:HackerNews_SwiftUI.xcodeproj">
          </BuildableReference>
