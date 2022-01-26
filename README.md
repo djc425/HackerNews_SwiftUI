@@ -7,3 +7,4 @@ This project is a simple tableview which parses the Hacker News Algolia API to r
 
 
 
+![Preview](/HackerNews_SwiftUI/Assets.xcassets/HackerNews_SimScreenShot.png)
